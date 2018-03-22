@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Day 3 Excercise 1: Read Student Data File
+Day 3 Exercise 1: Read Student Data File
 
 There is a data file called "student_data.txt".Write a program to read this
 file and print out a report that includes:

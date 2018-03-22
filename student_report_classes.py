@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Day 3 Excercise 2: Define Classes
+Day 3 Exercise 2: Define Classes
 
 Repeat the last exercise (i.e. a script to generate a report), but this time
 define classes "Student", "Club", and "Supervisor", and "City" classes at the

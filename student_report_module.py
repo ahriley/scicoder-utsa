@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Day 3 Excercise 3: Creating a Library
+Day 3 Exercise 3: Creating a Library
 
 Create a custom Python module for your studentdata classes.
 

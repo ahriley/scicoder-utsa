@@ -1,6 +1,5 @@
 # Ignored since these aren't done yet...
 database/
-regex_studentdata.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

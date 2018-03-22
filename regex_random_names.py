@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Regular Expressions Excercise 2:
+Regular Expressions Exercise 2:
 
 Read email list file (data/random_name_list.txt), write a new file with the
 data in this format (spaces between) using regular expressions:

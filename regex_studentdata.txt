@@ -1,0 +1,28 @@
+Copy the first 17 students from the "student_data.txt" file and paste it into
+the text field on "http://regex101.com". On the right side of the regular
+expression field, click the flags and turn on "multiline".  Write one regular
+expression for each below.
+
+a) select the pipe delimiters
+\|
+
+b) select the first names
+^([A-Za-z_]+)
+
+c) all rooms and room numbers
+Room [0-9]+
+
+d) all clubs
+\|([a-zA-Z, ]+)$
+
+e) only cities with two words
+[a-zA-Z]+ [a-zA-Z]+
+
+f) expression with a group that captures every supervisor name
+([a-zA-Z]+)/
+
+g) a group expression that captures the student’s status
+([A-Za-z ]+)\|([A-Za-z, ]*)$
+
+h) a group expression that captures the city
+^([a-zA-Z]+\|)([a-zA-Z]+\|)([a-zA-Z ]+\|)
