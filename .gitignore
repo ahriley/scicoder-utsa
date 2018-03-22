@@ -1,7 +1,12 @@
+# Ignored since these aren't done yet...
+database/
+regex_studentdata.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
 
 # C extensions
 *.so
